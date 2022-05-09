@@ -1,5 +1,3 @@
-//pip example
-
 #include <iostream>
 #include <fcntl.h>
 #include <errno.h>
